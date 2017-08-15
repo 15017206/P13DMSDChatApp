@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "367635337541",
+    "firebase_url": "https://fir-student-app-af599.firebaseio.com",
+    "project_id": "fir-student-app-af599",
+    "storage_bucket": "fir-student-app-af599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367635337541:android:a3e3c7674ad057ee",
+        "android_client_info": {
+          "package_name": "com.example.a15017206.firebasestudentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367635337541-ochndkl55sug7iqma4pdv6hfnjstsft0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyP-ay2gLkx-DCSR5tQ20wB1DZ2Dd3p84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367635337541:android:23092effde6565bb",
+        "android_client_info": {
+          "package_name": "com.example.a15017206.p11psfirebaseinventoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367635337541-ochndkl55sug7iqma4pdv6hfnjstsft0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyP-ay2gLkx-DCSR5tQ20wB1DZ2Dd3p84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367635337541:android:b0e76ec83e7ff370",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.webservices.p13dmsdchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367635337541-ochndkl55sug7iqma4pdv6hfnjstsft0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyP-ay2gLkx-DCSR5tQ20wB1DZ2Dd3p84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
