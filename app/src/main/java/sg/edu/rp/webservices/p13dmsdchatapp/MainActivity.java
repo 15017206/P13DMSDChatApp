@@ -44,6 +44,9 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         };
+
+
+
     }
 
     public void register(View v) {
@@ -83,7 +86,6 @@ public class MainActivity extends AppCompatActivity {
                             }
                         }
                     });
-
         }
     }
 
@@ -121,10 +123,6 @@ public class MainActivity extends AppCompatActivity {
                             }
                         }
                     });
-
-
         }
     }
-
-
 }
